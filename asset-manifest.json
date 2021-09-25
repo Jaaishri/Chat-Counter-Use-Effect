@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chat-Counter-Use-Effect/static/css/main.409c38e1.chunk.css",
+    "main.js": "/Chat-Counter-Use-Effect/static/js/main.bcd57793.chunk.js",
+    "main.js.map": "/Chat-Counter-Use-Effect/static/js/main.bcd57793.chunk.js.map",
+    "runtime-main.js": "/Chat-Counter-Use-Effect/static/js/runtime-main.d47524ba.js",
+    "runtime-main.js.map": "/Chat-Counter-Use-Effect/static/js/runtime-main.d47524ba.js.map",
+    "static/js/2.1f20fdc3.chunk.js": "/Chat-Counter-Use-Effect/static/js/2.1f20fdc3.chunk.js",
+    "static/js/2.1f20fdc3.chunk.js.map": "/Chat-Counter-Use-Effect/static/js/2.1f20fdc3.chunk.js.map",
+    "static/js/3.b309e23e.chunk.js": "/Chat-Counter-Use-Effect/static/js/3.b309e23e.chunk.js",
+    "static/js/3.b309e23e.chunk.js.map": "/Chat-Counter-Use-Effect/static/js/3.b309e23e.chunk.js.map",
+    "index.html": "/Chat-Counter-Use-Effect/index.html",
+    "static/css/main.409c38e1.chunk.css.map": "/Chat-Counter-Use-Effect/static/css/main.409c38e1.chunk.css.map",
+    "static/js/2.1f20fdc3.chunk.js.LICENSE.txt": "/Chat-Counter-Use-Effect/static/js/2.1f20fdc3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d47524ba.js",
+    "static/js/2.1f20fdc3.chunk.js",
+    "static/css/main.409c38e1.chunk.css",
+    "static/js/main.bcd57793.chunk.js"
+  ]
+}
