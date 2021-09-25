@@ -1,0 +1,27 @@
+body{
+    background-color:#DA7B93 ;
+    
+}
+.counter {
+    height: 10em;
+    position: relative;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    /*background-color: #2e151b;*/
+}
+.count{
+   
+    
+color: #2f4454;
+}
+.btn{
+    background-color:#376E6f;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
