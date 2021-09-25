@@ -21,3 +21,34 @@ document.title = `Chats (${count})` //`Chats ${count}`
 }
 
 export default UseEffectChatsCounter
+
+//Change Name and toggle using if else:
+/* import React,{useState}from 'react'
+import './chats.css';
+
+function useEffectChatsCounter() {
+    const[myName,setMyName] = useState("Jayshree");
+   
+//     const changeName =()=>{
+//       let val = myName;
+//       if (val ==="Jayshree") {
+//     setMyName("Jayshree Upadhyay")}
+//     else{
+//         setMyName('Jayshree')
+
+//     }
+// }
+const changeName =()=>{
+    let val = myName;
+    (val ==="Jayshree")?setMyName("Jayshree Upadhyay"):setMyName('Jayshree')
+}
+    
+    return (
+        <div className = "counter">
+        <h1 className = "count">{myName}</h1>
+            <button className= "btn" onClick = {changeName}>click me</button>
+        </div>
+    )
+}
+
+export default useEffectChatsCounter*/
